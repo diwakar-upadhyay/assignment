@@ -1,0 +1,10 @@
+export const FETCH_ONE = 'owners/FETCH_ONE';
+export const FETCH_ONE_SUCCESS = 'owners/FETCH_ONE_SUCCESS';
+export const FETCH_COLLECTION = 'owners/FETCH_COLLECTION';
+export const FETCH_COLLECTION_SUCCESS = 'owners/FETCH_COLLECTION_SUCCESS';
+export const CREATE = 'owners/CREATE_POST';
+export const CREATE_SUCCESS = 'owners/CREATE_POST_SUCCESS';
+export const UPDATE = 'owners/UPDATE';
+export const UPDATE_SUCCESS = 'owners/UPDATE_SUCCESS';
+export const DELETE = 'owners/DELETE';
+export const DELETE_SUCCESS = 'owners/DELETE_SUCCESS';

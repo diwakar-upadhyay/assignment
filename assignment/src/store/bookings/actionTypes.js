@@ -1,0 +1,12 @@
+export const FETCH_ONE = 'bookings/FETCH_ONE';
+export const FETCH_ONE_SUCCESS = 'bookings/FETCH_ONE_SUCCESS';
+export const FETCH_COLLECTION = 'bookings/FETCH_COLLECTION';
+export const FETCH_COLLECTION_SUCCESS = 'bookings/FETCH_COLLECTION_SUCCESS';
+export const CREATE = 'bookings/CREATE_POST';
+export const CREATE_SUCCESS = 'bookings/CREATE_POST_SUCCESS';
+export const UPDATE = 'bookings/UPDATE';
+export const UPDATE_SUCCESS = 'bookings/UPDATE_SUCCESS';
+export const DELETE = 'bookings/DELETE';
+export const DELETE_SUCCESS = 'bookings/DELETE_SUCCESS';
+export const SELECT_CUSTOMERS = 'bookings/SELECT_CUSTOMERS';
+export const SELECT_CUSTOMERS_SUCCESS = 'bookings/SELECT_CUSTOMERS_SUCCESS';
