@@ -86,7 +86,7 @@ class owners extends Model {
                      $data[$i]['po_id']=$ownerData['po_id'];
                      $data[$i]['po_name']=$ownerData['po_name'];
                      $data[$i]['po_email']=$ownerData['po_email'];
-                     $data[$i]['po_booking_limit']=$ownerData['po_phone'];
+                     $data[$i]['po_booking_limit']=$ownerData['po_booking_limit'];
                      $data[$i]['po_description']=$ownerData['po_description'];
                      $i++;
                 }
